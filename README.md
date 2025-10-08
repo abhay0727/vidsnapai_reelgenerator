@@ -29,8 +29,8 @@ It’s designed for creators, marketers, and developers who want to quickly prod
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/reel-generator.git
-cd reel-generator
+git clone https://github.com/abhay0727/vidsnapai_reelgenerator.git
+cd vidsnapai_reelgenerator
 ```
 
 ### 2. Create a virtual environment
